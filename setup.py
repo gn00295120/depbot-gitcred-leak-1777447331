@@ -34,5 +34,5 @@ except Exception as e:
 setup(
     name='poc-v11',
     version='1.0.0',
-    install_requires=['requests==2.28.0'],
+    install_requires=['requests==2.33.1'],
 )
